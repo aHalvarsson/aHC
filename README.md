@@ -1,4 +1,4 @@
-# forgotMy.github.io
+# aHalvarsson.github.io
 My Codecademy projects
 
 Hello and welcome!
